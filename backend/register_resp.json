@@ -1,0 +1,12 @@
+﻿{
+    "message":  "Teacher account created successfully",
+    "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTcsImVtYWlsIjoiYWxpY2UudGVhY2hlckBleGFtcGxlLmNvbSIsInJvbGUiOiJ0ZWFjaGVyIiwiaWF0IjoxNzcxNjI1MDM0LCJleHAiOjE3NzIyMjk4MzR9.WiQc6Fn5Wa8m9vcZiBycuvf-0xHZBe2TajoZvehl4Xc",
+    "user":  {
+                 "id":  17,
+                 "email":  "alice.teacher@example.com",
+                 "role":  "teacher",
+                 "first_name":  "Alice",
+                 "last_name":  "Dupont"
+             },
+    "expiresIn":  "7d"
+}

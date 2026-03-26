@@ -1,0 +1,12 @@
+﻿{
+    "message":  "Login successful",
+    "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwiZW1haWwiOiJhZ2VudC5wcmluY2lwYWxAb3JhbjEuZWR1Iiwicm9sZSI6ImFnZW50IiwiaWF0IjoxNzcxNjI1MDMyLCJleHAiOjE3NzIyMjk4MzJ9.10hnf-6qLQ-J_74FEoMyQjQ5BQF-LNI0U-2G1yWj2Bk",
+    "user":  {
+                 "id":  9,
+                 "email":  "agent.principal@oran1.edu",
+                 "role":  "agent",
+                 "first_name":  "Agent",
+                 "last_name":  "Principal"
+             },
+    "expiresIn":  "7d"
+}

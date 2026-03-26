@@ -1,0 +1,20 @@
+﻿[
+    {
+        "id":  2,
+        "name":  "Chimie",
+        "faculty_name":  "Sciences Exactes",
+        "faculty_id":  1
+    },
+    {
+        "id":  1,
+        "name":  "Informatique",
+        "faculty_name":  "Sciences Exactes",
+        "faculty_id":  1
+    },
+    {
+        "id":  3,
+        "name":  "Mathématiques",
+        "faculty_name":  "Sciences Exactes",
+        "faculty_id":  1
+    }
+]
