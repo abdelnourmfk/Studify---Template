@@ -1,4 +1,4 @@
-# INFO_7 Student Management System
+# Studify -- Student Management System
 
 A full-stack web application for managing student information, grades, schedules, and course materials.
 
